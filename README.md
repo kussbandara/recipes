@@ -1,2 +1,5 @@
 # recipes
 new
+
+potatoes
+rice
