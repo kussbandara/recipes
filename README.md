@@ -3,3 +3,4 @@ new
 
 potatoes
 rice
+tomatoes
