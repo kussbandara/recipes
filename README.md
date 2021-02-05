@@ -4,3 +4,6 @@
 pesto & pasly
 salmon
 fettuchini Alfredo
+
+# rice types
+lemon
