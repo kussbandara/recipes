@@ -1,6 +1,6 @@
 # recipes
 
 # pasta types
-pesto
+pesto & pasly
 salmon
 fettuchini Alfredo
