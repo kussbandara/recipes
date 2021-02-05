@@ -2,3 +2,4 @@
 cnn
 fox
 msn
+lanka
