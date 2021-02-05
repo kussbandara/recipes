@@ -1,6 +1,6 @@
 # recipes
 
 # pasta types
-pesto
+pesto ang basil
 salmon
 fettuchini Alfredo
